@@ -1,0 +1,8 @@
+{
+    "workbench.editor.closeOnFileDelete": true,
+    "notebook.formatOnSave.enabled": true,
+    "editor.formatOnSave": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveWhenNoErrors": true
+}
